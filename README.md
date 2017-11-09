@@ -5,5 +5,5 @@ How to run:<br />
 Initialise react-native<br/>
 `react-native init App --version react-native@0.47.0`<br/>
 Then:<br/>
-`react-native run-android - Android` - Android<br/>
-`react-native run-ios - iOS` - iOS<br/>
+`react-native run-android` - Android<br/>
+`react-native run-ios` - iOS<br/>
